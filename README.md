@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @lthao-h
 - 👀 I’m interested in fashion history and accounting fraud.
 - 🌱 I’m currently learning Python for the first time.
-- 💞️ I’m looking to collaborate on any financial/accounting projects. 
+- 💞️ I’m looking to collaborate on any financial/accounting projects.
+- 👉 I've uploaded an artwork that is a part of my "fluffs" series (file ______), feel free to go take a look! 
 
 
 <!---
