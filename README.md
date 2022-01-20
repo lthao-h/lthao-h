@@ -2,7 +2,7 @@
 - 👀 I’m interested in fashion history and accounting fraud.
 - 🌱 I’m currently learning Python for the first time.
 - 💞️ I’m looking to collaborate on any financial/accounting projects.
-- 👉 I've uploaded an artwork that is a part of my "fluffs" series (file ______), feel free to go take a look! 
+- 👉 I've uploaded an artwork that is a part of my "fluffs" series (file IMG3250.pdf), feel free to go take a look! 
 
 
 <!---
